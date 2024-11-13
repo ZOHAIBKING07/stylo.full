@@ -10,6 +10,8 @@ import Carousel2 from '../components/Carousel2';
 import Discounts3 from '../components/Discounts3';
 import Products4 from '../components/Products4';
 
+
+
 const Home = () => {
     return (
         <div>
@@ -23,6 +25,7 @@ const Home = () => {
             <Discounts3/>
             <Products4 />
             <Products3 />
+
         </div>
     )
 }
